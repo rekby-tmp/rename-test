@@ -1,5 +1,5 @@
 package tmp_go_rename
 
 func Func() int {
-	return 3
+	return 5
 }
